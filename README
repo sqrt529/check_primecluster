@@ -1,0 +1,6 @@
+check_primecluster.pl - Checks Fujitsu PrimeCluster application status (hvdisp -T userApplication)
+
+Script is Nagios compliant.
+
+Usage: ./check_primecluster.pl [-v]
+	-v: verbose output
